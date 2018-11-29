@@ -1,0 +1,11 @@
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\bin\Debug\netcoreapp2.1\EventHubPlayClient.deps.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\bin\Debug\netcoreapp2.1\EventHubPlayClient.runtimeconfig.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\bin\Debug\netcoreapp2.1\EventHubPlayClient.runtimeconfig.dev.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\bin\Debug\netcoreapp2.1\EventHubPlayClient.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\bin\Debug\netcoreapp2.1\EventHubPlayClient.pdb
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\EventHubPlay\obj\Debug\netcoreapp2.1\EventHubPlayClient.pdb

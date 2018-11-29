@@ -1,0 +1,9 @@
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\bin\Debug\netcoreapp2.1\StringLibrary.deps.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\bin\Debug\netcoreapp2.1\StringLibrary.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\bin\Debug\netcoreapp2.1\StringLibrary.pdb
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibrary\obj\Debug\netcoreapp2.1\StringLibrary.pdb

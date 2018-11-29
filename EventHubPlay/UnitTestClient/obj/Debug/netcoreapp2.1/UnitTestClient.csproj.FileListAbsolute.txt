@@ -1,0 +1,14 @@
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\UnitTestClient.deps.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\UnitTestClient.runtimeconfig.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\UnitTestClient.runtimeconfig.dev.json
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\UnitTestClient.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\bin\Debug\netcoreapp2.1\UnitTestClient.pdb
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.dll
+C:\Users\bansal\source\repos\csharp-play\EventHubPlay\UnitTestClient\obj\Debug\netcoreapp2.1\UnitTestClient.pdb

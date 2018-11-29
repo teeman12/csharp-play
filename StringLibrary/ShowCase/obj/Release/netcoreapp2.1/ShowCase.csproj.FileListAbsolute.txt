@@ -1,0 +1,14 @@
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\ShowCase.deps.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\ShowCase.runtimeconfig.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\ShowCase.runtimeconfig.dev.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\ShowCase.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\ShowCase.pdb
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\StringLibrary.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\bin\Release\netcoreapp2.1\StringLibrary.pdb
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csproj.CopyComplete
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\ShowCase\obj\Release\netcoreapp2.1\ShowCase.pdb

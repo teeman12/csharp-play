@@ -1,0 +1,17 @@
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibTest.deps.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibTest.runtimeconfig.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibTest.runtimeconfig.dev.json
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibTest.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibTest.pdb
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibrary.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\bin\Release\netcoreapp2.1\StringLibrary.pdb
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.csproj.CopyComplete
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.dll
+C:\Users\bansal\source\repos\csharp-play\StringLibrary\StringLibTest\obj\Release\netcoreapp2.1\StringLibTest.pdb

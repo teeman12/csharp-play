@@ -1,0 +1,11 @@
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\bansal\source\repos\csharp-play\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
